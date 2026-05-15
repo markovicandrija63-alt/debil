@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobodan",
+    "username": "picka",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "relja321421-NH74.aternos.me",
+    "ip": "SMP12231.aternos.me:63156",
     "port": 63156,
     "version": "",
     "try-creative": false
